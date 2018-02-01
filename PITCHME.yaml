@@ -9,7 +9,7 @@ theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
 logo : assets/image/logo.png
-background : assets/image/daniel-ghio.jpg
+background : assets/image/binary-strings-white.jpg
 transition : none
 published : true
 footnote : "GitPitch [ Brick ] Presentation Template"
