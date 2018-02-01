@@ -16,7 +16,9 @@
 ---
 
 ## Основная идея
-![Work](assets/image/Work_In_Progress.png)
+
+![Work_In_Progress](assets/image/Work_In_Progress.png)
+
 Создание онлайн - портала для обучения сотрудников...
 <br/> и не только
 
