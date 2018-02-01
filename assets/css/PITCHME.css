@@ -81,9 +81,14 @@ html:-moz-full-screen-ancestor {
 .gp-download { margin-left: 10px; }
 
 .b-img-plan {
+    position: initial;
     float: right;
     margin: 15px 50px;
     height: 250px;
 }
-ol { display: inherit;}
+ol { 
+  display: inline-table;
+  list-style-type: disc;
+  width: 50%;
+}
 
