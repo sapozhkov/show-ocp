@@ -101,5 +101,5 @@ ol {
 
 .b-img-private {
 width: 80%;
-padding-left: 10%;
+padding-left: 10% !important;
 }
