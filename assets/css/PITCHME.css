@@ -92,4 +92,9 @@ ol {
   width: 50%;
 }
 
-.b-mini-work { width:20%}
+.b-mini-work { 
+  width:20%;
+  position: initial;
+  float: right;
+  margin: 15px 50px;
+}
