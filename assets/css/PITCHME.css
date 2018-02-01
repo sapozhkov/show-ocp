@@ -84,7 +84,7 @@ html:-moz-full-screen-ancestor {
     position: initial;
     float: right;
     margin: 15px 50px;
-    height: 250px;
+    height: 300px;
 }
 ol { 
   display: inline-table;
