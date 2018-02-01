@@ -11,7 +11,7 @@
 4. Развитие современных технологий, заимствование внешних
 
 
- ![Plan](assets/image/plan.jpg)
+![Plan](assets/image/plan.jpg)
 
 ---
 
