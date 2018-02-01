@@ -80,3 +80,10 @@ html:-moz-full-screen-ancestor {
 
 .gp-download { margin-left: 10px; }
 
+.b-img-plan {
+    float: right;
+    margin: 15px 50px;
+    height: 250px;
+}
+ol { display: inherit;}
+
