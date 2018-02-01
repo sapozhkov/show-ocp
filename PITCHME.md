@@ -16,7 +16,9 @@
 ---
 
 ## Основная идея
-<p class='b-mini-work'> ![Work_In_Progress](assets/image/Work_In_Progress.png) </p>
+<p class='b-mini-work'> 
+ ![Work_In_Progress](assets/image/Work_In_Progress.png) 
+</p>
 
 Создание онлайн - портала для обучения сотрудников...
 <br/> и не только
