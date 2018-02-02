@@ -23,7 +23,9 @@
 ---
 ## Назначение
 @fa[magic gp-tip] Автоматизация ступеней развития сотрудников
+
 @fa[list gp-tip] Создание личной программы обучения
+
 @fa[graduation-cap gp-tip] Tabtabus school в режиме <b>online</b>
 
 ---
